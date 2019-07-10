@@ -1,0 +1,19 @@
+.page .content article .greysection div {
+	background-color: blue !important;
+}
+
+ol {
+	margin-top: 0px;
+}
+
+nospace {
+	padding-left: 0;
+}
+
+ol li {
+	border-left: dashed;
+	border-right: dashed;
+	margin-left: 20px;
+	margin-right: auto;
+	display: inline;
+}
